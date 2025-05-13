@@ -94,37 +94,28 @@ Sinta-se à vontade para contribuir! Sugestões, issues e pull requests são bem
 
 ---
 
-## 📄 Licença (MIT)
+📌 Direitos Autorais e Uso
+Este projeto foi idealizado, desenvolvido e publicado por Caio Amorim em 2025.
 
-```
-MIT License
+Todo o código, estrutura e proposta do sistema Notícias_IA — incluindo o uso de IA para classificação temática e de urgência de notícias em tempo real, com geração automática de sugestões de políticas públicas — são de minha autoria original.
 
-Copyright (c) 2025 Caio Amorim
+⚖️ Licença
+Este projeto está licenciado sob os termos da Licença MIT.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
+📌 IMPORTANTE:
+A utilização deste código, total ou parcial, exige obrigatoriamente a manutenção da autoria e do aviso de licença.
 
-The above copyright notice and this permission notice shall be included  
-in all copies or substantial portions of the Software.
+✅ É permitido:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
-SOFTWARE.
-```
+Usar, modificar, redistribuir e integrar com outros projetos (inclusive comerciais)
 
----
+❌ Não é permitido:
 
-## ✉️ Contato
+Remover os créditos ou distribuir o projeto como se fosse de outra autoria
 
-**Caio Amorim**  
-🔗 [https://github.com/C-amorim](https://github.com/C-amorim)
+Publicar sem menção clara a Caio Amorim como criador original
 
-> Feito com ❤️ por Caio e IA 🚀
+🧑‍💻 Autor
+Caio Amorim
+🔗 GitHub: github.com/C-amorim
+📬 Contato profissional sob demanda
